@@ -7,6 +7,8 @@ This repository contains my daily solutions to various coding challenges on [Hac
 - C Programming
   - Bit Manipulation
   - Control Constructs
+  - Pattern Programming
+  - Number/ Character Pattern
 
 ## Contact
 
