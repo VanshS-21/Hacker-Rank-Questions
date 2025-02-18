@@ -9,6 +9,7 @@ This repository contains my daily solutions to various coding challenges on [Hac
   - Control Constructs
   - Pattern Programming
   - Number/ Character Pattern
+  - Switch Statements
 
 ## Contact
 
